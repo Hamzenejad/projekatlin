@@ -1,0 +1,9 @@
+//آرین محمدی
+fun main() {
+    println("Enter the first number:")
+    val num1 = readLine()!!.toInt()
+
+    println("Enter the second number:")
+    val num2 = readLine()!!.toInt()
+
+    println("Prime numbers between $num1 and $num2 are:")
